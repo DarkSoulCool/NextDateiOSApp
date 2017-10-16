@@ -1,10 +1,10 @@
-//
-//  ViewController.swift
-//  NextDate
-//
-//  Created by user on 10/10/2560 BE.
-//  Copyright © 2560 PP_N. All rights reserved.
-//
+/*
+  ViewController.swift
+  NextDate
+
+  Created by user on 10/10/2560 BE.
+  Copyright © 2560 PP_N. All rights reserved.
+*/
 
 import UIKit
 
